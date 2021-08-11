@@ -15,7 +15,7 @@ func main() {
 		Name:   "aloababa",
 		Job:    "Software Engineer",
 		Code:   "Go, Python and others",
-    Skills: "Linux systems, monitoring..."
+    		Skills: "Linux systems, monitoring..."
 	}
 	_ = me
 }
